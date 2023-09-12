@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm currently working at Code n' App, where I specialize in building solid front-end applications using React, Next.js, and Vue.<br><br>🚀 My goal is to become a Full Stack developer and build strong end-to-end applications. I'm always looking to expand my skillset and explore new technologies.<br><br>💡 Fun fact: When I was younger, I got 2nd place at a regional speed-stacks tournament.<br><br>📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lucasnsaraujo) or send me an email at lucasntaraujo@gmail.com. Let's chat!<br>
+👋 Hi there! I'm currently working at GlobRes, where I specialize in building solid front-end applications using React and Next.js.<br><br>🚀 My goal is to become a Full Stack developer and build strong end-to-end applications. I'm always looking to expand my skillset and explore new technologies.<br><br>💡 Fun fact: When I was younger, I got 2nd place at a regional speed-stacks tournament.<br><br>📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lucasnsaraujo) or send me an email at lucasntaraujo@gmail.com. Let's chat!<br>
 
 
 ## 🌐 Socials:
